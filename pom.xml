@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.com.github.afrikalimpopo</groupId>
 	<artifactId>pet-teleboute</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.1.1-SNAPSHOT</version>
 	<name>teleboute</name>
 	<description>Pet project with JavaRush comunity</description>
 	<url/>
